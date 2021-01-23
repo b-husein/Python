@@ -1,5 +1,5 @@
 
-# My Python Egs :snake: :smile:
+# :snake: :smile:
 <hr>
 
 This script contain important functions which help reduce human workload.
